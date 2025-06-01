@@ -5,9 +5,8 @@
 ### 🚀 **About Me**
 🔹 **Aspiring Data Scientist**, with expertise in **R, Python, SQL, and Tableau**  
 🔹 Passionate about **Deep Learning, Reinforcement Learning & Financial Data Science**  
-🔹 Currently working on **Stock Data Analysis & Customer Churn Prediction**  
-🔹 Building **AI-powered models for retail forecasting & financial insights**  
-🔹 Exploring **computer vision, web scraping, and mycology data analysis** 
+🔹 Currently working on **Stock Data Analysis**  
+🔹 Building **AI-powered models for retail forecasting & financial insights
 
 📌 **Current Focus**: Applying **Deep Learning & Reinforcement Learning to Finance**  
 📚 **Learning**: Advanced **Time-Series Forecasting & NLP for Financial Data**  
